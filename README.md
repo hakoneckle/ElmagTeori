@@ -1,0 +1,3 @@
+- **Course**: Electromagnetic Theory at NTNU, spring 2022
+- **Type**: Semester Assignment
+- **Title**: Electric Potential in a Two-Dimensional Square Tube
